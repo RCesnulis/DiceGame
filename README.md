@@ -51,4 +51,4 @@ Feel free to submit issues or download the game and modify it for yourself.
 This project is licensed under the MIT License.
 
 ____________________________________________________________
-Enjoy the game and may the best dice game I've ever created!
+Enjoy the game it may the best dice game I've ever created!
